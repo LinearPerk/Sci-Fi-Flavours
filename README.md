@@ -9,16 +9,16 @@ If you have feedback I'd love to hear it, especially if you have ideas for balan
 (linearperk@gmail.com)
 
 This Plugin contains:
-  -About 100 new ships
-  -About 100 new outfits/weapons
-  -No changes to storyline missions
-  -More starter ships and increased start money (1 million)
+  - About 100 new ships  
+  - About 100 new outfits/weapons
+  - No changes to storyline missions
+  - More starter ships and increased start money (1 million)
 
 To do list:
-  -Hi Res sprites/images
-  -Integration with campaign
-  -New missions to gradually introduce plugin content
-  -Learn how to create new sprites with blender :)
+  - Hi Res sprites/images
+  - Integration with campaign
+  - New missions to gradually introduce plugin content
+  - Learn how to create new sprites with blender :)
  
 # Acknowledgments
 
