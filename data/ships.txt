@@ -3036,23 +3036,6 @@ ship "Nebula Class"
 			"shield damage" 2600
 			"hull damage" 1300
 			"hit force" 3900
-	attributes
-		category "Heavy Warship"
-		cost 15800000
-		mass 940
-		bunks 148
-		"cargo space" 60
-		drag 12
-		"engine capacity" 180
-		"fuel capacity" 600
-		"gun ports" 4
-		"heat dissipation" 0.7
-		hull 6600
-		"outfit space" 740
-		"required crew" 68
-		shields 25000
-		"turret mounts" 5
-		"weapon capacity" 320
 	outfits
 		"A520 Atomic Thruster"
 		"A525 Atomic Steering"
