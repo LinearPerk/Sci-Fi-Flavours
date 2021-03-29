@@ -51,6 +51,16 @@ https://github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away
 loiseeer/The-more-ships-plugin 
 https://github.com/loiseeer/The-more-ships-plugin
 
+# Artists 
+Will credit each ship when I complete the ship descriptions.
+
+Ansel Hsiao / https://fractalsponge.net/
+
+unusualsuspex / https://www.deviantart.com/unusualsuspex
+
+dolynick / https://www.deviantart.com/dolynick
+
+ravendeviant / https://www.deviantart.com/ravendeviant
 
 # Installation
 
